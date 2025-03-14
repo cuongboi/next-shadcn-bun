@@ -1,0 +1,46 @@
+{
+  "atDirectives": [
+    {
+      "name": "@tailwind",
+      "description": "Use the @tailwind directive to insert Tailwind’s `base`, `components`, `utilities`, and `screens` styles into your CSS.",
+      "references": [
+        {
+          "name": "Tailwind’s “Functions & Directives” documentation",
+          "url": "https://tailwindcss.com/docs/functions-and-directives/#tailwind"
+        }
+      ]
+    },
+    {
+      "name": "@apply",
+      "description": "Use @apply to inline any existing utility classes into your own custom CSS.",
+      "references": [
+        {
+          "name": "Tailwind’s “Functions & Directives” documentation",
+          "url": "https://tailwindcss.com/docs/functions-and-directives#apply"
+        }
+      ]
+    },
+    {
+      "name": "@theme",
+      "description": "Use the @theme directive to define your project's custom design tokens, like fonts, colors, and breakpoints",
+      "references": [
+        {
+          "name": "Learn more about customizing your theme in the theme variables documentation",
+          "url": "https://tailwindcss.com/docs/theme"
+        }
+      ]
+    },
+    {
+      "name": "@plugin",
+      "description": "Use the @plugin directive to load a legacy JavaScript-based plugin.The @plugin directive accepts either a package name or a local path."
+    },
+    {
+      "name": "@custom-variant",
+      "description": "Use the @custom-variant directive to add a custom variant in your project."
+    },
+    {
+      "name": "@source",
+      "description": "Use the @source directive to explicitly specify source files that aren't picked up by Tailwind's automatic content detection."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "zenstack.zenstack",
+    "WillLuke.nextjs",
+    "anweber.vscode-httpyac",
+    "anweber.httpbook"
+  ]
+}

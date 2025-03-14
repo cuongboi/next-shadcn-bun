@@ -1,0 +1,20 @@
+{
+  "WillLuke.nextjs.hasPrompted": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.tabSize": 2,
+  "[zmodel]": {
+    "editor.defaultFormatter": "zenstack.zenstack"
+  },
+  "files.associations": {
+    "*.zmodel": "zmodel"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "css.customData": [".vscode/tailwind-directive.json"],
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "search.exclude": {
+    "**/node_modules": false
+  }
+}
